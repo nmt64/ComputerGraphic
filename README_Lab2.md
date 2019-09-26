@@ -1,5 +1,5 @@
 # Tam Nguyen _ LAB 2
-## Bresenham
+## Bresenham Algorithm Implementation
 1. Old Software Algorithms now Implemented in Hardware - how are lines and circles drawn?
 
 a. Implement Bresenham's midpoint line scan conversion algorithm - pseudo-code provided as a handout.
