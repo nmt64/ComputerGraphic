@@ -17,22 +17,23 @@ An animated 3D robot is created by using OpenGL.
 - Material properties are defined for scene objects in DIFFUSE mode. 
 
 ### Animation options
+Lift right upper leg
 
-- Torso: Rotating Torso  around a circle with animation in arm and leg
-- Head y-axis: Rotate head in 45 degrees continuously through y-axis
-- Head x-axis: Rotate head in 45 degrees continuously through x-axis
-- Right_Upper_Arm: Move the right upper arm with right lower arm up in a 45 degrees
-- Right_Lower_Arm: Move the right lower arm down in a 45 degrees
-- Left_Upper_Arm: Move the left upper arm with left lower arm up in a 45 degrees
-- Left_Lower_Arm: Move the left lower arm down in a 45 degrees
-- Right_Upper_Leg: Move the right upper leg with right lower leg up in a 45 degrees
-- Right_Lower_Leg: Move the right lower leg down in a 45 degrees
-- Left_Upper_Leg: Move the left upper leg with left lower leg up in a 45 degrees
-- Left_Lower_Leg: Move the left lower leg down in a 45 degrees
+- Rotate Robot: Rotating Torso around a circle with animation in arm and leg
+- Rotate head with x-axis : Rotate head in 45 degrees continuously through x-axis
+- Rotate head with y-axis: Rotate head in 45 degrees continuously through y-axis
+- Lift right upper arm: Move the right upper arm with right lower arm up in a 45 degrees
+- Lift right lower arm": Move the right lower arm down in a 45 degrees
+- Lift left upper arm: Move the left upper arm with left lower arm up in a 45 degrees
+- Lift left lower arm: Move the left lower arm down in a 45 degrees
+- Lift right upper leg: Move the right upper leg with right lower leg up in a 45 degrees
+- Lift right lower leg: Move the right lower leg down in a 45 degrees
+- Lift left upper leg: Move the left upper leg with left lower leg up in a 45 degrees
+- Lift left lower leg: Move the left lower leg down in a 45 degrees
 - SHOOT: Shooting a ball continously 
 - STOP: Stop animation
 - RESET: Reset the object back to original position and initinal degrees for each particle. 
-- QUIT: Quit the program 
+- Exit: Quit the program 
 
 ### Keyboard options
 - Using key arrow to move the robot around the scene
